@@ -1,0 +1,13 @@
+Inhibitor,System,Delta Tm,R2 treated,R2 untreated,Repository,Plot
+GSK3182571,K-562 cell,3.052390765,,,Cellzome_Thermal_Profiling Thermal_profiling_GSK3182571_cell_extract DMSO control,
+Dasatinib,K-562 cell,52.91191119,,,Cellzome_Thermal_Profiling Thermal_profiling_Dasatinib_cell_extract DMSO control,
+Staurosporine,K-562 cell,-0.630729288,,,Cellzome_Thermal_Profiling Thermal_profiling_Staurosporine_cell_extract DMSO control,
+DMSO,K-562 cell,,,,Meltome Homo sapiens_K562_lysate_TUM Meltome K562 lysate TUM,
+DMSO,K-562 cell,,,,Meltome Homo sapiens_K562_cells_TUM Meltome K562 cells TUM,
+DMSO,Jurkat cell,,,,Meltome Homo sapiens_Jurkat_lysate_OS Meltome Jurkat lysate OS,
+DMSO,K-562 cell,,,,Meltome Homo sapiens_K562_lysate_OS Meltome K562 lysate OS,
+DMSO,colonic cancer cell,,,,Meltome Homo sapiens_colon cancer spheroids_cells_OS Meltome colon cancer spheroids cells OS,
+DMSO,K-562 cell,,,,Meltome Homo sapiens_K562_cells_OS Meltome K562 cells OS,
+DMSO,saliva,,,,Meltome Human body fluids_saliva_lysate_TUM Meltome saliva lysate TUM,
+DMSO,milk,,,,Meltome Human body fluids_breast milk_lysate_TUM Meltome milk lysate TUM,
+DMSO,lung fibroblast,,,,Meltome Homo sapiens_lung fibroblasts_lysate_OS Meltome lung fibroblasts lysate OS,
